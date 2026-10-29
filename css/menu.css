@@ -1,0 +1,16 @@
+.es-menu{max-width:640px;margin:8px auto;padding:14px;border-radius:14px;
+  background:linear-gradient(160deg,#1b1f2e,#11131c);color:#e8e6f0;
+  font-family:'Pretendard',sans-serif;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+.es-head{font-size:1.2em;font-weight:800;letter-spacing:.15em;text-align:center;
+  padding-bottom:8px;border-bottom:1px solid #3a3f58}
+.es-notice{margin:10px 0;padding:8px;border-radius:8px;font-size:.85em;
+  background:#3a2f12;color:#ffd77a;text-align:center}
+.es-card{display:flex;gap:12px;margin-top:8px;padding:10px;border-radius:10px;
+  background:#1f2436;border-left:4px solid #7c8cff;transition:.2s}
+.es-card:hover{background:#262c44;transform:translateX(3px)}
+.es-ch{min-width:58px;font-weight:800;color:#9fb0ff;align-self:center;text-align:center}
+.es-title{font-weight:700}
+.es-cast{font-size:.85em;color:#b5b3c8;margin:3px 0}
+.es-tags span{display:inline-block;font-size:.75em;padding:2px 8px;margin-right:4px;
+  border-radius:99px;background:#2e3552}
+.es-tags .loc{background:#24413a;color:#8fe3c4}
